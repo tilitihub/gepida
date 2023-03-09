@@ -1,0 +1,45 @@
+/*
+Tiliczki Tibor
+Szoft I/1/E
+2023.03.09.
+*/
+
+body {
+    background-image: url(../img/bicycle-bmx-bike-wallpaper.jpg);
+    background-size: cover;
+    font-family: sans-serif;
+    margin: 10px;
+}
+
+
+
+header h1 {
+    margin: 10px;
+}
+
+main {
+    padding: 20px;
+}
+
+table {
+    border-collapse: collapse;
+    margin-bottom: 80px;
+}
+
+table, th, td {
+    border: 1px solid #ddd;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+}
+
+
+
+#quote {
+    font-size: larger;
+    font-style: italic;
+    text-align: center;
+    margin-top: 80px;
+}
